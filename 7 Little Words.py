@@ -1,17 +1,3 @@
-#How much time do you think you spent on this lab?           I think I probably spent around 2ish hours total on this lab
-#What part of this program was the most challenging?         The most challenging part was definitely just wrapping my head around all of the different outputs and creating the chunks and everything
-#How did you overcome the challenge?                         Writing things out helped a lot plus just imagining different code workflows
-#What part of this program was the MOST FUN?                 I loved testing it! It was so satisfying to see everything work and the outputs be correct
-#What do you plan to add to your program in the future?      I plan to make it usable for 6 letter words ranging to 12 letter words and maybe make the output a bit prettier
-
-
-"""
-need to (optional):
-- "guess again!" for wrong answers
-- make output prettier
-- game header/intro
-"""
-
 import random
 
 words = []
